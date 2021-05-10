@@ -1,0 +1,35 @@
+.body_backgorund{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+
+  #myCanvas{
+      border-width:10px;
+      border-color: rgb(197, 4, 245); 
+      border-style:ridge;
+      margin-left: 250px;
+      background-color: white;
+  }
+
+  button{
+    background-color: #b003f5;
+    color: white !important;
+    font-size: 20px !important;
+   
+  }
+
+  input{
+    margin-right: 20px;
+  }
+  p{
+    color:white !important;
+    font-size: 25px;
+  }
+  #blackpink{
+    font-size:50px !important;
+  }
+  
